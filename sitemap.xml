@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://www.limisun.com/archives/index.html</loc>
-    
-    <lastmod>2020-04-04T11:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.limisun.com/categories/index.html</loc>
     
     <lastmod>2020-04-04T11:43:42.000Z</lastmod>
@@ -44,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://www.limisun.com/tags/index.html</loc>
+    <loc>https://www.limisun.com/archives/index.html</loc>
     
     <lastmod>2020-04-04T11:43:42.000Z</lastmod>
     
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://www.limisun.com/friends/index.html</loc>
+    
+    <lastmod>2020-04-04T11:43:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.limisun.com/tags/index.html</loc>
     
     <lastmod>2020-04-04T11:43:42.000Z</lastmod>
     
